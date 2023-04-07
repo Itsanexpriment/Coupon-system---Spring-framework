@@ -1,5 +1,7 @@
 # coupon-system
 
+second phase of the John Bryce Academy final project.
+
 A backend application that enables companies to issue and manage coupons as well as allowing customers to view and purchase coupons.
 * Built using Spring Boot, uses OAUTH2 Resource Server with JWT for authentication and authorization. 
 * Database is managed by MySQL.
